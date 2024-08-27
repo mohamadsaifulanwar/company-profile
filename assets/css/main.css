@@ -217,6 +217,34 @@ h6 {
   --background-color: rgb(21, 21, 92);
 }
 
+/* service detail Header
+------------------------------*/
+.service-details-page .header {
+  --background-color: rgba(25, 25, 112, 1);
+  --heading-color: #ffffff;
+  --nav-color: #ffffff;
+}
+
+/* service detail Header on Scroll
+------------------------------*/
+.service-details-page.scrolled .header {
+  --background-color: rgb(21, 21, 92);
+}
+
+/* portofolio detail Header
+------------------------------*/
+.portfolio-details-page .header {
+  --background-color: rgba(25, 25, 112, 1);
+  --heading-color: #ffffff;
+  --nav-color: #ffffff;
+}
+
+/* portofolio detail Header on Scroll
+------------------------------*/
+.portfolio-details-page.scrolled .header {
+  --background-color: rgb(21, 21, 92);
+}
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
